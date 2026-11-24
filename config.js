@@ -1,15 +1,4 @@
-// Konfigurasi untuk GitHub Pages. Semua isi file ini dapat dilihat pengunjung.
-export const firebaseConfig = {
-    apiKey: "AIzaSyBLV7rR_DOBO0co96SoXgp8pMpzdjXh8jk",
-    authDomain: "kirim-email-e8168.firebaseapp.com",
-    databaseURL: "https://kirim-email-e8168-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "kirim-email-e8168",
-    storageBucket: "kirim-email-e8168.firebasestorage.app",
-    messagingSenderId: "816534819354",
-    appId: "1:816534819354:web:5dcc0d373af1cae085b7a3"
-};
-
-// TOKEN BOT: sengaja diletakkan di sini sesuai permintaan.
-// PERINGATAN: token ini publik jika web di-host di GitHub Pages.
-export const TELEGRAM_BOT_TOKEN = "9062902519:AAEpmOQ2tkzmIorx8TMgDNHrAN-5TvvE2DQ";
-export const TELEGRAM_CHAT_IDS = ["8853226026", "8934938123"];
+<script>
+<!-- code by https://www.html-code-generator.com -->
+document.write(unescape('//%20Konfigurasi%20untuk%20GitHub%20Pages.%20Semua%20isi%20file%20ini%20dapat%20dilihat%20pengunjung.%0Aexport%20const%20firebaseConfig%20%3D%20%7B%0A%20%20%20%20apiKey%3A%20%22AIzaSyBLV7rR_DOBO0co96SoXgp8pMpzdjXh8jk%22%2C%0A%20%20%20%20authDomain%3A%20%22kirim-email-e8168.firebaseapp.com%22%2C%0A%20%20%20%20databaseURL%3A%20%22https%3A//kirim-email-e8168-default-rtdb.asia-southeast1.firebasedatabase.app%22%2C%0A%20%20%20%20projectId%3A%20%22kirim-email-e8168%22%2C%0A%20%20%20%20storageBucket%3A%20%22kirim-email-e8168.firebasestorage.app%22%2C%0A%20%20%20%20messagingSenderId%3A%20%22816534819354%22%2C%0A%20%20%20%20appId%3A%20%221%3A816534819354%3Aweb%3A5dcc0d373af1cae085b7a3%22%0A%7D%3B%0A%0A//%20TOKEN%20BOT%3A%20sengaja%20diletakkan%20di%20sini%20sesuai%20permintaan.%0A//%20PERINGATAN%3A%20token%20ini%20publik%20jika%20web%20di-host%20di%20GitHub%20Pages.%0Aexport%20const%20TELEGRAM_BOT_TOKEN%20%3D%20%229062902519%3AAAEpmOQ2tkzmIorx8TMgDNHrAN-5TvvE2DQ%22%3B%0Aexport%20const%20TELEGRAM_CHAT_IDS%20%3D%20%5B%228853226026%22%2C%20%228934938123%22%5D%3B'));
+</script>
